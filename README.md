@@ -27,12 +27,5 @@ Ce projet a été réalisé en utilisant les technologies web fondamentales :
 * **HTML :** Pour la structure du contenu.
 * **CSS :** Pour la mise en forme et le style visuel.
 
-## Prochaines étapes
-
-Ce site est une base. Dans le futur, j'aimerais explorer et ajouter les fonctionnalités suivantes :
-
-* Une galerie photo plus complète et dynamique.
-* Un blog pour partager des articles sur la photographie.
-* Des améliorations au niveau du design et de l'expérience utilisateur.
 
 Merci de votre visite ! N'hésitez pas à explorer les différentes pages.
